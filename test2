@@ -1,3 +1,7 @@
 hello3
 hello test2 again
+<<<<<<< HEAD
 helloz
+=======
+hello1
+>>>>>>> ceaf7ddcfd3d6e90081a4953c161c6efbcdbef17
